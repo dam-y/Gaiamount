@@ -73,7 +73,7 @@
         <ay-payed.version>3.7.89.ALL</ay-payed.version>
 
         <gaiamount.version>${project.version}</gaiamount.version>
-        <docker.image.prefix>192.168.1.135:5000/gm</docker.image.prefix>
+        <docker.image.prefix>192.168.1.118:5000/gm</docker.image.prefix>
         <docker.image.base>${docker.image.prefix}/serverjre:11.0.3.1</docker.image.base>
     </properties>
 
